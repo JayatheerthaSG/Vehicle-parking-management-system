@@ -18,7 +18,7 @@ Vehicle Parking Management System is a project to demonstrate the managing of Ve
 
 Login Page
 
-![Screenshot_1](https://user-images.githubusercontent.com/91688610/152656355-0aacab5b-636d-4c45-8b34-c9bc8ae2b393.png)
+![parking1](https://user-images.githubusercontent.com/96195827/185851976-3eb356a4-99d8-4d54-a3c1-3bf137fd6a25.jpg)
 
 
 Dashboard Page
