@@ -43,11 +43,6 @@ Printed Receipt for Users
 
 
 
-FYP IMAGES
-![11](https://github.com/JayatheerthaSG/Vehicle-parking-management-system/assets/96195827/ea46d35d-6c12-45e3-8150-7ed8007675e6)
-![12](https://github.com/JayatheerthaSG/Vehicle-parking-management-system/assets/96195827/6a666ae9-81dc-4545-9faf-c3d5fef7e420)
-![13](https://github.com/JayatheerthaSG/Vehicle-parking-management-system/assets/96195827/bd633c61-49fb-46eb-b474-4a1312547baa)
-![14](https://github.com/JayatheerthaSG/Vehicle-parking-management-system/assets/96195827/f11261fa-1767-4e25-87ad-f2286a0988b4)
 
 
 
